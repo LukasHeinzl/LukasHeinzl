@@ -18,10 +18,13 @@ Over the years I have used the following languages (ranging from used once to ha
 - Shell-scripting (Linux and Windows)
 - Processing
 - SmallBasic
+
+Not programming languages but I still know them:
+- HTML
+- CSS
+- SQL
 - Scratch
 - Lego Mindstorms (NXT & EV3)
-
-Not programming languages but I still know them: HTML, CSS, SQL.
 
 ### OLD disclaimer
 Repositories that are marked as OLD are old projects that I uploaded more recently to GitHub.
