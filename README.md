@@ -1,6 +1,6 @@
 ### Hi there, I'm Lukas 👋
 
-I am a developer from Austria that currently studies Mediatechnology with focus on interactive media (apps, websites, ar/vr, etc.).
+I am a developer from Austria that currently studies Mediatechnology with focus on interactive media (apps, websites, ar/vr, game, etc.).
 
 I started coding at the age of 12 by learning Java through tutorials and a lot of trail and error.
 Java was my main language for about nine years before I recently got more into server-side development with PHP.
