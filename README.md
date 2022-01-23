@@ -29,6 +29,6 @@ Not programming languages but I still know them:
 ### OLD disclaimer
 Repositories that are marked as OLD are old projects that I uploaded more recently to GitHub.
 They have this disclaimer to signal their age even though they have a rather recent commit date.
-I still decided to upload them to show my progresson as I programmer.
+I still decided to upload them to show my progresson as a programmer.
 And boy do I have progressed, you will get a stroke when reading through some of my old stuff.
 You have been warned!
